@@ -10,8 +10,8 @@ Early stage – work in progress (October 2026).
 - [x] Repository structure and PlatformIO project for node A
 - [x] First firmware running on the ESP32 (serial output)
 - [x] Engineering log for every work session (`docs/log`)
-- [ ] Boot banner: node name, firmware version, reset reason
-- [ ] Non-blocking timing with `millis()`
+- [x] Boot banner: node name, firmware version, reset reason
+- [x] Non-blocking timing with `millis()`
 - [ ] SPI communication with the LoRa Ra-02 module
 - [ ] Binary packet protocol with CRC
 - [ ] Ground-station logger in Python (serial → CSV)
