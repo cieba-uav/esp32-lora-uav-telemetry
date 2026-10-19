@@ -28,3 +28,7 @@ parametry radia:
 - BW, 
 - CR,
 - źródło limitu prawnego.
+
+note:
+- auto-reset nie działa, upload wymaga przytrzymania BOOT.
+- reset reason 1 == "Vbat power on reset"
